@@ -1,0 +1,31 @@
+
+  
+  .flex-container {
+    display: inline-flex;
+    justify-content:space-around;
+   padding: 20px;
+
+  }
+  
+  .table-container {
+    display:flex;
+    width:45%;
+    padding: 40px;
+  }
+  
+  table {
+    width: 80%;
+    margin-top: 0;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    margin-right: 150px;
+  }
+  
+  table th, table td {
+    padding: 10px;
+    text-align: center;
+  }
+
+
+  
+  
